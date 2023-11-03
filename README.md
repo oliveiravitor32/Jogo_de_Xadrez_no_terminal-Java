@@ -5,5 +5,5 @@ Projeto de um sistema de jogo de xadrez construído com Java durante o curso "Ja
 Rode o programa na pasta "application/Program"
 - Para melhor aproveitamento utilize o programa em um terminal colorido que aceite "ANSI escape sequences".
 
-
+## Pré-visualização do programa
 <img src="images/Chess.png" width="45%" height="auto" margin="0 auto"/>
