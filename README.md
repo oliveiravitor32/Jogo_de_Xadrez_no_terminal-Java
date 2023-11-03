@@ -6,4 +6,4 @@ Rode o programa na pasta "application/Program"
 - Para melhor aproveitamento utilize o programa em um terminal colorido que aceite "ANSI escape sequences".
 
 
-<img src="images/Chess.png" width="60%" height="auto" margin="0 auto"/>
+<img src="images/Chess.png" width="45%" height="auto" margin="0 auto"/>
